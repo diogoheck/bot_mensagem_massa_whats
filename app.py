@@ -2,7 +2,7 @@ import webbrowser
 import pyautogui
 from time import sleep
 
-telefones = [555591056868, 555599732484, 555180463040]
+telefones = [555591XXXX, 555599XXXXX, 55518XXXXX]
 
 # telefones = []
 # with open('fones.txt', 'r') as arquivo:
